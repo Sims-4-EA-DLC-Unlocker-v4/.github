@@ -6,7 +6,7 @@ A Simple DLC Unlocking tool for Sims 4
 
 ### - 🔗 ***Get the Latest Release:***
 
-- **Latest Release:** [Get Here](https://github.com/EA-DLC-Unlocker-v3/.github/releases)
+- **Latest Release:** [Get Here](https://github.com/Sims-4-EA-DLC-Unlocker-v4/.github/releases)
 
 
 ---
